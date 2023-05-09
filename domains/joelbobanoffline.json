@@ -1,11 +1,11 @@
 {
     "description": "For Portfolio",
-    "repo": "https://github.com/JoelBobanOffline/JoelBobanOffline.github.io",
+    "repo": "https://github.com/git-itsjoel/git-itsjoel.github.io",
     "owner": {
-        "username": "JoelBobanOffline",
+        "username": "git-itsjoel",
         "email": "joelboban2007@gmail.com"
     },
     "record": {
-        "CNAME": "joelbobanoffline.github.io"
+        "CNAME": "git-itsjoel.github.io"
     }
 } 
